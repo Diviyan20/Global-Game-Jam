@@ -10,3 +10,8 @@ Below are some screenshots of the gameplay:
 ![SS 2](https://github.com/Diviyan20/Global-Game-Jam/assets/139028711/84f2d864-1041-4d24-bf20-25e09f729cd5)
 
 ![SS 3](https://github.com/Diviyan20/Global-Game-Jam/assets/139028711/6ad76249-2697-4ffd-96aa-5cb73aa8eb0e)
+
+
+GAMEPLAY VIDEO LINK: https://youtu.be/yZXoG9Q6EoM
+
+Itch.io Link: https://diviyan.itch.io/meme-runner
